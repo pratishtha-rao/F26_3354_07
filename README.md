@@ -1,1 +1,2 @@
-# F26_3354_07
+Team Number: 07
+Team Name: Comet Care
