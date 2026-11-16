@@ -44,3 +44,15 @@ F26_3354_07/
 ├── src/                    # Application source code and repository layer
 ├── tests/                  # Automated Jest unit test suites
 └── README.md               # Project documentation
+```
+## Getting Started
+1.Clone the repository to your local machine:
+- git clone [https://github.com/pratishtha-rao/F26_3354_07.git](https://github.com/pratishtha-rao/F26_3354_07.git)
+- cd F26_3354_07
+
+2.Install all required Node.js, React Native, and Jest testing dependencies:
+- npm install
+3. Configure Environment Variables
+- cp .env.example .env
+4. Run the project locally
+- npx expo start
