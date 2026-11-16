@@ -75,9 +75,9 @@ The browser preview runs locally. To start the iOS/Android development server in
 
 GitHub Copilot (OpenAI/GitHub) was utilized during the development of this project implementation under the following scope:
 
-- **Purpose & Scope:** Used as an intelligent code-completion and boilerplate-generation assistant primarily within the `implementation/` directory (e.g., scaffolding TypeScript interfaces, React Native component structures, and drafting unit test templates).
+- **Purpose & Scope:** Used as an intelligent code-completion and boilerplate-generation assistant only within the `implementation/` directory.
 - **Human Verification & Authorship:** All AI-suggested snippets were manually reviewed, edited, debugged, and integrated by the team members. The underlying software design, architectural decisions, business logic, and test cases were formulated and validated by the team in accordance with the project specification.
+- **Acceptable AI use was verified and used with permission from the professor, Dr. Barbara Maweu.**
 
 ### Citation Format (IEEE Style)
-If referencing AI tools within the formal project documentation:
-> [X] GitHub, Inc., "GitHub Copilot," Large language model-based code completion tool, 2026. [Online]. Available: https://github.com/features/copilot.
+[1] GitHub, Inc., GitHub Copilot, large language model-based code completion tool, 2026. [Online]. Available: https://github.com/features/copilot. [Accessed: Nov. 15, 2026]
