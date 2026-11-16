@@ -70,3 +70,14 @@ npm run web
 ```
 
 The browser preview runs locally. To start the iOS/Android development server instead, use `npm start` from `implementation/`. Run the type check with `npm run typecheck`; run the Jest suite with `npm test`.
+
+## AI Assistance & Attribution
+
+GitHub Copilot (OpenAI/GitHub) was utilized during the development of this project implementation under the following scope:
+
+- **Purpose & Scope:** Used as an intelligent code-completion and boilerplate-generation assistant primarily within the `implementation/` directory (e.g., scaffolding TypeScript interfaces, React Native component structures, and drafting unit test templates).
+- **Human Verification & Authorship:** All AI-suggested snippets were manually reviewed, edited, debugged, and integrated by the team members. The underlying software design, architectural decisions, business logic, and test cases were formulated and validated by the team in accordance with the project specification.
+
+### Citation Format (IEEE Style)
+If referencing AI tools within the formal project documentation:
+> [X] GitHub, Inc., "GitHub Copilot," Large language model-based code completion tool, 2026. [Online]. Available: https://github.com/features/copilot.
